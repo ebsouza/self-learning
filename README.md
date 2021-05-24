@@ -17,9 +17,9 @@ Atualmente os notebooks são pensados como complemento do curso Guia prático de
 
 ### Ambiente de desenvolvimento
 
-[Google Colab](https://colab.research.google.com/)
-[Instalação Python](https://www.python.org/)
-[Pacote Anaconda](https://www.anaconda.com/products/individual)
+- [Google Colab](https://colab.research.google.com/)
+- [Instalação Python](https://www.python.org/)
+- [Pacote Anaconda](https://www.anaconda.com/products/individual)
 
 
 ---
