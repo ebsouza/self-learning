@@ -10,18 +10,20 @@ Atualmente os notebooks são pensados como complemento do curso Guia prático de
 
 O **Python** tem muito mais a oferecer do que é abordado no curso, e é aqui que você adquire o complemento.
 
-### Notebooks disponíveis
-
-- [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
-- [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
-
-
 ### Ambiente de desenvolvimento
 
 - [Google Colab](https://colab.research.google.com/)
 - [Instalação Python](https://www.python.org/)
 - [Pacote Anaconda](https://www.anaconda.com/products/individual)
 
+
+### Notebooks disponíveis
+
+#### 1. Python
+- [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
+- [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
+#### 2.  Computação Científica
+- [Gráficos com Matplotlib](https://github.com/ebsouza/self-learning/blob/main/Matplotlib.ipynb)
 
 ### No Medium
 
