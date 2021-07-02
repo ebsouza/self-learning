@@ -17,9 +17,9 @@ O **Python** tem muito mais a oferecer do que é abordado no curso, e é aqui qu
 - [Pacote Anaconda](https://www.anaconda.com/products/individual)
 
 
-### [Notebooks disponíveis]
+### [Python notebooks]
 
-#### 1. Python
+#### 1. Python Básico
 - [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
 - [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
 #### 2.  Computação Científica
