@@ -2,13 +2,12 @@
 
 
 
-Seja muito bem vindo(a),
+Seja muito bem-vindo(a),
 
-Neste espaço você encontrará notebooks que servirão de auto aprendizado. O material de ensino são os notebooks Python, que você pode rodar no Google Colab(sem precisar instalar nada em seu computador) ou configurando em sua máquina um ambiente de desenvolvimento.
+Neste repositório você encontrará **notebooks python** que servirão como guia para autodidatas. Eles podem ser lidos e executados na nuvem utilizando o Google Colab ou configurando localmente o ambiente de desenvolvimento. Confira links importantes na seção abaixo.
 
-Atualmente os notebooks são pensados como complemento do curso Guia prático de lógica de programação e algoritmos, disponível na Udemy [neste link](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE). No curso você aprende os conceitos básicos de lógica de programação e algoritmos utilizando a linguagem Python. 
+Todo conteúdo deste repositório foi pensado como material complementar para os estudantes do curso Guia prático de lógica de programação e algoritmos, disponível na Udemy [neste link](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE). Neste curso você aprende os conceitos básicos de lógica de programação e algoritmos. 
 
-O **Python** tem muito mais a oferecer do que é abordado no curso, e é aqui que você adquire o complemento.
 
 ### [Ambiente de desenvolvimento]
 
