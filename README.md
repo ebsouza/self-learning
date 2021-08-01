@@ -22,6 +22,7 @@ O **Python** tem muito mais a oferecer do que é abordado no curso, e é aqui qu
 #### 1. Python Básico
 - [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
 - [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
+- [Tratamento de exceção](https://github.com/ebsouza/self-learning/blob/main/TratamentoExcecao.ipynb)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/self-learning/blob/main/Matplotlib.ipynb)
 
