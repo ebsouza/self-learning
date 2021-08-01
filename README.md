@@ -6,7 +6,7 @@ Seja muito bem-vindo(a),
 
 Neste repositório você encontrará **notebooks python** que servirão como guia para autodidatas. Eles podem ser lidos e executados na nuvem utilizando o Google Colab ou configurando localmente o ambiente de desenvolvimento. Confira links importantes na seção abaixo.
 
-Todo conteúdo deste repositório foi pensado como material complementar para os estudantes do curso Guia prático de lógica de programação e algoritmos, disponível na Udemy [neste link](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE). Neste curso você aprende os conceitos básicos de lógica de programação e algoritmos. 
+Todo conteúdo deste repositório foi pensado como material complementar para os estudantes do curso **Guia prático de lógica de programação e algoritmos**, disponível na **Udemy** [neste link](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE). Neste curso você aprende os conceitos básicos de lógica de programação e algoritmos. 
 
 
 ### [Ambiente de desenvolvimento]
